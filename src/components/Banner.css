@@ -35,3 +35,7 @@
     text-transform: inherit !important;
     color: #ff7779 !important;
 }
+.banner__search{
+    display: flex;
+    flex-direction: column;
+}
