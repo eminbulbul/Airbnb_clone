@@ -28,7 +28,7 @@
 .search > input:focus {
   outline-width: 0;
 }
-.search > button {
+.search > button { 
   width: 579px;
   position: absolute;
   left: 0;
